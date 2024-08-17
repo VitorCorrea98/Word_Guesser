@@ -1,0 +1,1 @@
+Fazer um botão de dificuldade ease o outro no modo hard
